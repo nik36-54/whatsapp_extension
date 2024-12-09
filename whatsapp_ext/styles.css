@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 300px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  input, textarea, button {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  button {
+    background-color: #25D366;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  #status {
+    margin-top: 10px;
+    font-size: 14px;
+    color: green;
+  }
+  
